@@ -16,6 +16,7 @@ if('black' in yours):
     del( yours['black'])
 else:
     print('black not in yours')
+    
 print('yours: ', yours)
 
 if('blue' in yours):
@@ -23,6 +24,7 @@ if('blue' in yours):
     del( yours['blue'])
 else:
     print('blue not in yours')
+    
 print('yours: ', yours)
 
 print('Clearing yours')
