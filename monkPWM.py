@@ -1,4 +1,4 @@
-# File:       monkPWMd.py
+# File:       monkPWM.py
 # Author:     Simon Monk 
 # Reference:  Programming the Raspberery Pi, 2nd ed., McGraw-Hill, 2016
 # Originally: 09_pwm.py
